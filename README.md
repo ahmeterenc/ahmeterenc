@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Unity VR-Scenarios**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
 
-- 💬 Ask me about **Android,Unity and Python**
+- 💬 Ask me about **Android,Unity and Flutter**
 
 - 📫 How to reach me **ahmeterenc.23@gmail.com**
 
