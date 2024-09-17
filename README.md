@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmeterenc" alt="ahmeterenc" /></a> </p>
 
-- 🔭 I’m currently working on **Unity VR-Scenarios**
+- 🔭 I’m currently working on **Unity VR and Machine Learning**
 
-- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 💬 Ask me about **Android,Unity and Flutter**
 
