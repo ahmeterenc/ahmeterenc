@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Ahmet Eren Çelik</h1>
+<h1 align="center">Hi, I'm Ahmet Eren Çelik</h1>
 <h3 align="center">Learn and develop software with pleasure</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmeterenc&label=Profile%20views&color=0e75b6&style=flat" alt="ahmeterenc" /> </p>
 
-- 🔭 I’m currently working on **Unity VR and NLP**
+- I’m currently working on **Unity VR and NLP**
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- I’m currently learning **Artificial Intelligence**
 
-- 💬 Ask me about **AI and Mobile**
+- Ask me about **AI and Mobile**
 
-- 📫 How to reach me **ahmeterenc.23@gmail.com**
+- How to reach me **ahmeterenc.23@gmail.com**
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
